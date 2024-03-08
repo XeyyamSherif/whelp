@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standart]
+passlib[bcrypt]
+python-jose[cryptography]
+celery
+redis
+pymysql
+python-dotenv
+peewee
+requests
